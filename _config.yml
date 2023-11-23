@@ -4,11 +4,15 @@ theme: linkhub-jekyll-theme
 # Site Configuration
 name: Troy Pulli  # Name of your website
 tagline: DeFion Labs  # Set your preferred page title
-description: Troy Pulli  # Also used as a meta description
+description: 
+The Worlds Top DeFi Strategists
+🌐Decentralized Finance
+📚DM “DeFi” For Help
+👇Crypto Conversations  # Also used as a meta description
 favicon: https://raw.githubusercontent.com/TroyPulli/troypulli.github.io/main/1.png # Path / URL to the favicon of your website (e.g., 'assets/images/favicon.png')
 logo: https://raw.githubusercontent.com/TroyPulli/troypulli.github.io/main/1.png # Path / URL to the logo (e.g., 'assets/images/logo.png')
 url: https://troypulli.com # URL of your website
-locale: en_GB # The value specifies the locale in which these tags are marked up. It follows the format `language_TERRITORY`.
+locale: en_UZ # The value specifies the locale in which these tags are marked up. It follows the format `language_TERRITORY`.
 twitter:
   username: defion_labs # Used for SEO
 image:
