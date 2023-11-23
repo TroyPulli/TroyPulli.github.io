@@ -1,22 +1,22 @@
 - category: Blogs
   items:
-    - title: Example
-      url: https://www.example.com
+    - title: Educational Content
+      url: https://www.youtube.com/@Defionproductions/shorts
       icon: ri:film-fill # Icons are optional.
       tag: New
 
-    - title: Example 2
-      url: https://www.example.org
+    - title: Finance Content
+      url: https://www.youtube.com/@Defionproductions/shorts
       icon: simple-icons:googlenews
 
-- category: Products
+- category: Web3
   items:
-    - title: Example 3
-      url: https://www.example.com
+    - title: Web3
+      url: ttps://www.youtube.com/@Defionproductions/shorts
 
 - category: Works
   items:
-    - title: Example 4
-      url: https://www.example.org
+    - title: Podcast
+      url: https://www.youtube.com/@Defionproductions/shorts
       icon: clarity:language-solid
       tag: Sale
